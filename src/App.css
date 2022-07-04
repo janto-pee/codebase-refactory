@@ -40,3 +40,9 @@
 button {
   font-size: calc(10px + 2vmin);
 }
+.small-font {
+  font-size: 0.8rem;
+}
+.card-shadow1 {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
